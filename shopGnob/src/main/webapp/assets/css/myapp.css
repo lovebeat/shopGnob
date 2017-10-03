@@ -6,10 +6,19 @@
 
 body {
     padding-top: 54px;
+    
 }
 
 @media (min-width: 992px) {
     body {
         padding-top: 56px;
     }
+}
+
+.dataTableImg{
+	width: 100px;
+	height: 100px;
+}
+.help-block{
+	color: #ff0000;
 }
