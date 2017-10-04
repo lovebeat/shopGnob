@@ -14,6 +14,7 @@ public class FileUploadUtility {
 	private static final String ABS_PATH = "D:\\Eclipse\\shopGnob\\shopGnob\\src\\main\\webapp\\assets\\images\\";
 	private static String REAL_PATH ="";
 	private static final Logger logger = LoggerFactory.getLogger(FileUploadUtility.class);
+	int a=10;
 	public static void uploadFile(HttpServletRequest request, MultipartFile file, String code) {
 		
 		//get the real path
