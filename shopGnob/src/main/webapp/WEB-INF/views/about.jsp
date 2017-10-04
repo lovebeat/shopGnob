@@ -4,7 +4,7 @@
 	</div>
 	<br>
 	<div class=row">
-		
+		<p></p>
 		<p>This is About Us Page</p>
 	</div>
 </div>
