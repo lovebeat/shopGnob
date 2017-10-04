@@ -15,6 +15,7 @@ public class FileUploadUtility {
 	private static String REAL_PATH ="";
 	private static final Logger logger = LoggerFactory.getLogger(FileUploadUtility.class);
 	int a=10;
+	int b=11;
 	public static void uploadFile(HttpServletRequest request, MultipartFile file, String code) {
 		
 		//get the real path
