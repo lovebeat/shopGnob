@@ -2,6 +2,8 @@
 	<div class="row">
 		<h1>About Us</h1>
 	</div>
+	<div>
+	</div>
 	<br>
 	<div class=row">
 		<p></p>
